@@ -1,4 +1,4 @@
-package com.macro.mall.com.utils;
+package com.macro.mall.common.utils;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

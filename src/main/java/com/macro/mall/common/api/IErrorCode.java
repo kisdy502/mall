@@ -1,4 +1,4 @@
-package com.macro.mall.com.api;
+package com.macro.mall.common.api;
 
 /**
  * 封装API的错误码

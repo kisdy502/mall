@@ -1,7 +1,7 @@
 package com.macro.mall.controller;
 
-import com.macro.mall.com.api.CommonPage;
-import com.macro.mall.com.api.CommonResult;
+import com.macro.mall.common.api.CommonPage;
+import com.macro.mall.common.api.CommonResult;
 import com.macro.mall.mbg.model.PmsBrand;
 import com.macro.mall.service.PmsBrandService;
 import io.swagger.annotations.Api;

@@ -1,7 +1,7 @@
 package com.macro.mall.service.impl;
 
 
-import com.macro.mall.com.api.CommonResult;
+import com.macro.mall.common.api.CommonResult;
 import com.macro.mall.service.RedisService;
 import com.macro.mall.service.UmsMemberService;
 import org.springframework.beans.factory.annotation.Autowired;

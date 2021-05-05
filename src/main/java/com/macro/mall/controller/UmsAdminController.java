@@ -1,7 +1,7 @@
 package com.macro.mall.controller;
 
 
-import com.macro.mall.com.api.CommonResult;
+import com.macro.mall.common.api.CommonResult;
 import com.macro.mall.dto.UmsAdminLoginParam;
 import com.macro.mall.mbg.model.UmsAdmin;
 import com.macro.mall.mbg.model.UmsPermission;

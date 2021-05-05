@@ -1,4 +1,4 @@
-package com.macro.mall.com.api;
+package com.macro.mall.common.api;
 
 import com.github.pagehelper.PageInfo;
 import org.springframework.data.domain.Page;
@@ -42,7 +42,7 @@ public class CommonPage<T> {
         result.setList(pageInfo.getContent());
         return result;
     }
-    
+
     public Integer getPageNum() {
         return pageNum;
     }

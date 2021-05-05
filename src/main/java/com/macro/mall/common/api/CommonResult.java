@@ -1,4 +1,4 @@
-package com.macro.mall.com.api;
+package com.macro.mall.common.api;
 
 /**
  * 通用返回对象

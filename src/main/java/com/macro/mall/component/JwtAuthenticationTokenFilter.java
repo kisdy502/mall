@@ -1,6 +1,6 @@
 package com.macro.mall.component;
 
-import com.macro.mall.com.utils.JwtTokenUtil;
+import com.macro.mall.common.utils.JwtTokenUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

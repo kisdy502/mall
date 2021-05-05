@@ -1,7 +1,7 @@
 package com.macro.mall.service.impl;
 
 
-import com.macro.mall.com.utils.JwtTokenUtil;
+import com.macro.mall.common.utils.JwtTokenUtil;
 import com.macro.mall.dao.UmsAdminRoleRelationDao;
 import com.macro.mall.mbg.mapper.UmsAdminMapper;
 import com.macro.mall.mbg.model.UmsAdmin;

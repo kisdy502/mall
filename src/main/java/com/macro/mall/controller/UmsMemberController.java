@@ -1,7 +1,7 @@
 package com.macro.mall.controller;
 
 
-import com.macro.mall.com.api.CommonResult;
+import com.macro.mall.common.api.CommonResult;
 import com.macro.mall.service.UmsMemberService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
